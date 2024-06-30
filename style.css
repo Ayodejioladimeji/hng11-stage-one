@@ -29,16 +29,8 @@ header {
   margin-bottom: 40px;
 }
 
-header .image-box {
-  height: 150px;
-  width: 150px;
-  border: 1px solid #999;
-}
-
 header img {
   object-fit: cover;
-  width: 100%;
-  height: 100%;
 }
 
 header h1 {
